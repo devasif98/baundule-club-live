@@ -1,4 +1,5 @@
-import UpdateCategoryForm from "@/components/Dashboard/Categories/UpdateCategoryForm";
+import UpdateCategoryForm from "@/components/dashboard/Categories/UpdateCategoryForm";
+
 
 const UpdateCategoryPage = () => {
   return (

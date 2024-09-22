@@ -1,4 +1,5 @@
-import PackageTable from "@/components/Dashboard/Packages/PackageTable";
+
+import PackageTable from "@/components/dashboard/Packages/PackageTable";
 import Link from "next/link";
 
 const PackagesPage = () => {

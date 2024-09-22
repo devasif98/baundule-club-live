@@ -1,4 +1,5 @@
-import AddCategoryForm from "@/components/Dashboard/Categories/AddCategoryForm";
+import AddCategoryForm from "@/components/dashboard/Categories/AddCategoryForm";
+
 
 const AddCategoryPage = () => {
   return (

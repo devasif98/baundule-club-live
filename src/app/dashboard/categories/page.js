@@ -1,4 +1,5 @@
-import CategoryTable from "@/components/Dashboard/Categories/CategoryTable";
+
+import CategoryTable from "@/components/dashboard/Categories/CategoryTable";
 import Link from "next/link";
 
 const CategoriesPage = () => {
