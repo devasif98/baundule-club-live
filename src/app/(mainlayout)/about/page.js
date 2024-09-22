@@ -127,8 +127,8 @@ const Guild = () => {
   const guild = [
     {
       name: "Md. Asif Ullah Sikder",
-      pos: "Customer Care Specialists",
-      img: "https://i.ibb.co/TvsY78W/pic.png",
+      pos: "Full Stack Developer",
+      img: "https://i.ibb.co.com/W0NRqrT/IMG20240223221857-103622.jpg",
     },
     {
       name: "Sazzad Mahmud Shadhin",
@@ -136,15 +136,20 @@ const Guild = () => {
       img: "https://i.ibb.co/JtnGLkf/sazzad.png",
     },
     {
-      name: "Imran Hossain Badhon",
-      pos: "Sustainability Advocates",
-      img: "https://i.ibb.co/XVWVjv3/imran.png",
+      name: "Abu Taher",
+      pos: "Backend Expert",
+      img: "https://i.ibb.co.com/QckPLxX/352159980-245973098038661-3438369594136343964-n.jpg",
     },
-    {
-      name: "Atiqur Rahaman Khan",
-      pos: "Travel Consultants",
-      img: "https://i.ibb.co/CQmtZGh/atiq.png",
-    },
+    // {
+    //   name: "Imran Hossain Badhon",
+    //   pos: "Sustainability Advocates",
+    //   img: "https://i.ibb.co/XVWVjv3/imran.png",
+    // },
+    // {
+    //   name: "Atiqur Rahaman Khan",
+    //   pos: "Travel Consultants",
+    //   img: "https://i.ibb.co/CQmtZGh/atiq.png",
+    // },
   ];
   return (
     <>
@@ -160,13 +165,14 @@ const Guild = () => {
             Meet The Travel Pros
           </h1>
         </div>
-        <div className="grid gap-5 px-10 md:grid-cols-2 lg:grid-cols-4">
+        <div className="flex justify-center">
+        <div className="grid gap-5 px-10 md:grid-cols-2 lg:grid-cols-3" style={{maxWidth:"1080px"}}>
           {guild.map((g, i) => {
             return (
-              <>
-                <div className="pb-1" key={i}>
+              <div key={i}>
+                <div className="pb-1" >
                   <div className="mb-4 bg-white rounded-lg team-item">
-                    <div className="team-img relative overflow-hidden h-[270px]">
+                    <div className="team-img relative overflow-hidden h-[300px]">
                       <Image
                         src={g.img}
                         alt=""
@@ -209,9 +215,10 @@ const Guild = () => {
                     </div>
                   </div>
                 </div>
-              </>
+              </div>
             );
           })}
+        </div>
         </div>
       </div>
     </>

@@ -7,27 +7,27 @@ import { Swiper, SwiperSlide } from "swiper/react";
 
 const image = [
   {
-    img: "https://i.ibb.co/2gbm8yL/280262742-5130109857046670-4708096580079606806-n.jpg",
+    img: "/Assets/hero/1.jpg",
     content:
       "Taking a break from your daily routine and exploring new environments can reduce stress and improve mental well-being.",
   },
   {
-    img: "https://i.ibb.co/Tm2Sg5w/347560013-289988890171639-8103870393340249027-n.jpg",
+    img: "/Assets/hero/2.jpg",
     content:
       "Traveling creates lasting memories and experiences that you can cherish for a lifetime. These memories often become some of your most treasured possessions.",
   },
   {
-    img: "https://i.ibb.co/kBgC4Ny/347622865-289988930171635-5336226406560910392-n.jpg",
+    img: "/Assets/hero/3.jpg",
     content:
       "Travel exposes you to diverse cultures, traditions, and languages. It broadens your horizons and fosters cultural sensitivity and understanding.",
   },
   {
-    img: "https://i.ibb.co/35bXdqW/359815779-289988560171672-7291747113375088179-n.jpg",
+    img: "/Assets/hero/4.jpg",
     content:
       "Travel exposes you to diverse cultures, traditions, and languages. It broadens your horizons and fosters cultural sensitivity and understanding.",
   },
   {
-    img: "https://i.ibb.co/7WmWC3w/10.jpg",
+    img: "/Assets/hero/5.jpg",
     content:
       "Travel exposes you to diverse cultures, traditions, and languages. It broadens your horizons and fosters cultural sensitivity and understanding.",
   },
@@ -55,18 +55,18 @@ const Hero = () => {
                 src={img.img}
                 alt="dfgd"
                 className="w-full h-[250px] md:h-[400px] lg:h-[500px] xl:h-[550px] object-cover"
-                width={800}
+                width={1800}
                 height={800}
+                quality={100}  // Setting the image quality to 100 for better resolution
+                priority={true} // Preload the image for better performance
               />
-              {/* <div className="overlay"></div> */}
-              {/* <div className="absolute inset-0 z-50 flex flex-col items-center justify-center">
-                                <p className="text-white md:text-xl lg:text-2xl xl:text-3xl w-[90%] md:w-[70%] text-center font-semibold mb-4">
-                                    {img.content}
-                                </p>
-                                <button className="px-4 py-2 text-white rounded-full bg-lime-600 hover:bg-lime-700">
-                                    Book Now
-                                </button>
-                            </div> */}
+              <div className="overlay"></div>
+              <div className="absolute inset-0 z-50 flex flex-col items-center justify-center">
+                <p className="text-white md:text-xl lg:text-2xl xl:text-3xl w-[90%] md:w-[70%] text-center font-semibold mb-4">
+                  {img.content}
+                </p>
+
+              </div>
             </div>
           </SwiperSlide>
         ))}

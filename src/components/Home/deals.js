@@ -12,7 +12,7 @@ const Deals = () => {
       title: "Find Your Dream Getaway in Hot Deals",
       description:
         "Are you dreaming of palm-fringed beaches, cultural immersion in exotic cities, or thrilling adventures in breathtaking landscapes? Now, those dreams can become a reality without burning a hole in your pocket.",
-      banner: "https://i.ibb.co/YXXfFFM/1.jpg",
+      banner: "/Assets/about.jpg",
       packages: [
         {
           img: "https://i.ibb.co/NTJqVLB/maldives.jpg",
@@ -37,7 +37,7 @@ const Deals = () => {
       title: "Find Your Dream Getaway in Hot Deals",
       description:
         "Are you dreaming of palm-fringed beaches, cultural immersion in exotic cities, or thrilling adventures in breathtaking landscapes? Now, those dreams can become a reality without burning a hole in your pocket.",
-      banner: "https://i.ibb.co/56JKT3c/8.jpg",
+      banner: "/Assets/signin.jpeg",
       packages: [
         {
           img: "https://i.ibb.co/NTJqVLB/maldives.jpg",
@@ -62,7 +62,7 @@ const Deals = () => {
       title: "Find Your Dream Getaway in Hot Deals",
       description:
         "Are you dreaming of palm-fringed beaches, cultural immersion in exotic cities, or thrilling adventures in breathtaking landscapes? Now, those dreams can become a reality without burning a hole in your pocket.",
-      banner: "https://i.ibb.co/XDTbW41/hjk.jpg",
+      banner: "/Assets/hotabout.jpg",
       packages: [
         {
           img: "https://i.ibb.co/NTJqVLB/maldives.jpg",

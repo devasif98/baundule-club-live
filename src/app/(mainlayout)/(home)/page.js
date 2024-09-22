@@ -1,13 +1,12 @@
 "use client";
-
-import Blog from "@/components/Home/Blog";
-import Deals from "@/components/Home/Deals";
+import Blog from "@/components/Home/blog";
+import Deals from "@/components/Home/deals";
 import Destination from "@/components/Home/Destination";
-import Gallery from "@/components/Home/Gallery";
+import Gallery from "@/components/Home/gallery";
 import Hero from "@/components/Home/Hero";
-import Packages from "@/components/Home/Packages";
-import Category from "@/components/Home/Recommend";
+import Packages from "@/components/Home/packages";
 import "@/styles/home.css";
+import { Category } from "@mui/icons-material";
 import Image from "next/image";
 import Link from "next/link";
 
