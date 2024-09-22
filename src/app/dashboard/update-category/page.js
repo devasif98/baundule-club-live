@@ -1,6 +1,5 @@
 import UpdateCategoryForm from "@/components/dashboard/Categories/UpdateCategoryForm";
 
-
 const UpdateCategoryPage = () => {
   return (
     <div className="px-2 py-10 space-y-8 md:px-4">
