@@ -1,0 +1,44 @@
+.page-header {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("/Assets/contact.jpg"), no-repeat;
+  background-size: cover;
+}
+.display-4 {
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+@media (max-width: 1200px) {
+  .display-4 {
+    font-size: calc(1.475rem + 2.7vw);
+  }
+}
+.service-item {
+  transition: 0.5s;
+}
+
+.service-item:hover {
+  box-shadow: 0 0 30px #cccccc;
+}
+
+.service-item i {
+  width: 75px;
+  height: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #7ab730;
+  background: #ffffff;
+  color: #7ab730;
+  transition: 0.5s;
+}
+
+.service-item:hover i {
+  background: #7ab730;
+  color: #ffffff;
+}
+
+.count-animate {
+  transition: 0.5s; /* Adjust the transition duration as needed */
+}

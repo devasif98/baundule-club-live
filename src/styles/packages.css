@@ -1,0 +1,58 @@
+.page-header {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("/Assets/contact.jpg"), no-repeat;
+  background-size: cover;
+}
+.display-4 {
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+.smooth-dropdown {
+  transition: all 0.3s ease; /* Apply a smooth transition effect */
+  border: 1px solid transparent; /* Add a border */
+}
+
+.smooth-dropdown:hover {
+  border: 1px solid #ccc; /* Change border color on hover */
+}
+
+#swipericon .swiper-wrapper {
+  gap: 25px;
+}
+#swipericon .swiper-slide {
+  margin-right: 0 !important;
+}
+#swipericon .swiper-button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0;
+  gap: 10px;
+}
+ #swipericon .swiper-button-prev::after {
+  color: rgb(255, 255, 255);
+  margin-right: 0 !important;
+  font-size: 15px !important;
+}
+
+ #swipericon .swiper-button-next::after {
+  color: rgb(255, 255, 255);
+  margin-left: 0 !important;
+  font-size: 15px !important;
+}
+
+ #swipericon .swiper-button-next,
+ #swipericon .swiper-button-prev {
+  position: inherit;
+  margin-top: 0;
+  height: 0;
+
+  background-color: #A3E635;
+  padding: 15px 8px;
+}
+
+.active{
+  background-image: url('/Assets/icon/cat.bg.svg');
+  object-fit: cover;
+}

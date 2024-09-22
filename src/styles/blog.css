@@ -1,0 +1,32 @@
+.blog-item {
+    transition: .5s;
+}
+
+.blog-item:hover {
+    box-shadow: 0 0 30px #CCCCCC;
+}
+
+.blog-date {
+    position: absolute;
+    width: 60px;
+    height: 45px;
+    top: 30px;
+    left: -15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: #7AB730;
+}
+
+.blog-date::after {
+    position: absolute;
+    content: "";
+    width: 0;
+    height: 0;
+    top: -15px;
+    left: 0;
+    border: 8px solid;
+    border-color: transparent darken(#7AB730, 10%) darken(#7AB730, 10%) transparent;
+    z-index: -1;
+}

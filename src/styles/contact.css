@@ -1,0 +1,15 @@
+.page-header {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/Assets/contact.jpg'), no-repeat ;
+    background-size: cover;
+  }
+  .display-4 {
+    font-size: 3.5rem;
+    font-weight: 600;
+    line-height: 1.2;
+  }
+  
+  @media (max-width: 1200px) {
+    .display-4 {
+      font-size: calc(1.475rem + 2.7vw) ;
+    }
+  }

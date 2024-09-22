@@ -1,0 +1,32 @@
+[
+  {
+    "img": "https://i.ibb.co/KVPR7Kx/sea.jpg",
+    "title": "Beach",
+    "subtitle": "Beautiful",
+    "icon": "https://i.ibb.co/2tF7C3F/beach.png"
+  },
+  {
+    "img": "https://i.ibb.co/fnsmvZf/waterfall.jpg",
+    "title": "Waterfall",
+    "subtitle": "Charming",
+    "icon": "https://i.ibb.co/R93cdLJ/waterfall.png"
+  },
+  {
+    "img": "https://i.ibb.co/TbBYW3B/green.jpg",
+    "title": "Green Tourism",
+    "subtitle": "Attractive",
+    "icon": "https://i.ibb.co/NF0Kx4H/hill.png"
+  },
+  {
+    "img": "https://i.ibb.co/PzFHHc6/heritage.jpg",
+    "subtitle": "Historical",
+    "title": "Heritage Tour",
+    "icon": "https://i.ibb.co/VNRtJ5b/historical.png"
+  },
+  {
+    "img": "https://i.ibb.co/9vZV9cv/food.jpg",
+    "subtitle": "Tasty",
+    "title": "Adventure",
+    "icon": "https://i.ibb.co/gWwWshP/adventure.png"
+  }
+]

@@ -1,0 +1,247 @@
+[
+    {
+      "name": "Himalayan Expedition",
+      "categories": ["Adventure", "Trekking"],
+      "division": "Himalayas",
+      "district": "Nepal",
+      "tourLocation": "Mount Everest Base Camp",
+      "minDuration": 7,
+      "maxDuration": 14,
+      "price": 1500,
+      "childPrice": 1200,
+      "minMembers": 6,
+      "maxMembers": 12,
+      "description": "Embark on a thrilling journey to the base of the world's highest mountain, Mount Everest.",
+      "information": "Participants must undergo physical fitness tests and altitude acclimatization before the expedition.",
+      "facilities": [
+        "Accommodation",
+        "Meals",
+        "Guided Tours",
+        "Climbing Equipment"
+      ],
+      "hopeDestination": ["Mount Everest Summit", "Khumbu Icefall"],
+      "meals": {
+        "welcome": ["Hot Soup", "Biscuits"],
+        "lunch": ["Packed Lunch", "Energy Bars"],
+        "evening": ["Warm Dinner", "Tea/Coffee"]
+      },
+      "mapUrl": "https://maps.google.com/mount_everest_base_camp",
+      "availability": true,
+      "inclusions": ["Accommodation", "Meals", "Guide", "Permits"],
+      "exclusions": [
+        "International Airfare",
+        "Personal Expenses",
+        "Travel Insurance"
+      ],
+      "tips": [
+        "Stay hydrated",
+        "Follow guide's instructions",
+        "Carry warm clothing"
+      ],
+      "pickupLocation": "Tribhuvan International Airport, Kathmandu",
+      "coverPic": "https://images.unsplash.com/photo-1617380613434-7495e9b45dfb?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "images": [
+        "https://images.unsplash.com/photo-1611516493082-ae20993dbbda?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1624969198354-d7b4ebe29009?q=80&w=1626&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1618085610017-7653c9d5734c?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1618083707368-b3823daa2726?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "additionalInfo": [
+        "Emergency contact numbers",
+        "Medical kit provided",
+        "Altitude sickness precautions"
+      ]
+    },
+    {
+      "name": "Tropical Island Getaway",
+      "categories": ["Beach", "Resort"],
+      "division": "Caribbean",
+      "district": "Saint Lucia",
+      "tourLocation": "Marigot Bay",
+      "minDuration": 5,
+      "maxDuration": 10,
+      "price": 2500,
+      "childPrice": 1800,
+      "minMembers": 2,
+      "maxMembers": 8,
+      "description": "Escape to the pristine beaches and lush landscapes of Saint Lucia for a rejuvenating tropical retreat.",
+      "information": "Participants should bring sunscreen, swimwear, and light clothing suitable for hot weather.",
+      "facilities": [
+        "Luxury Accommodation",
+        "Gourmet Meals",
+        "Spa",
+        "Water Sports"
+      ],
+      "hopeDestination": ["Pitons", "Rainforest Trails"],
+      "meals": {
+        "welcome": ["Tropical Fruit Platter", "Refreshing Drinks"],
+        "lunch": ["Seafood Buffet", "Salads"],
+        "evening": ["Fine Dining Experience", "Cocktails"]
+      },
+      "mapUrl": "https://maps.google.com/marigot_bay_saint_lucia",
+      "availability": true,
+      "inclusions": ["Accommodation", "Meals", "Spa Treatments"],
+      "exclusions": ["Airfare", "Alcoholic Beverages", "Personal Expenses"],
+      "tips": [
+        "Explore local cuisine",
+        "Participate in water sports",
+        "Relax and unwind"
+      ],
+      "pickupLocation": "Hewanorra International Airport, Vieux Fort",
+      "coverPic": "https://images.unsplash.com/photo-1625721838087-c46e51c89558?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "images": [
+        "https://images.unsplash.com/photo-1510208768565-416319fc6eba?q=80&w=1633&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1625110110865-7aef948ac6b4?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1689519487369-9cc85e43bdbe?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1622190914753-4d2b7d4a8072?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "additionalInfo": [
+        "Local customs and etiquette",
+        "Emergency contact numbers"
+      ]
+    },
+    {
+      "name": "Historical European Tour",
+      "categories": ["Culture", "History"],
+      "division": "Europe",
+      "district": "Various",
+      "tourLocation": "Multiple European Cities",
+      "minDuration": 10,
+      "maxDuration": 21,
+      "price": 3500,
+      "childPrice": 2800,
+      "minMembers": 8,
+      "maxMembers": 20,
+      "description": "Embark on a captivating journey through Europe's rich history and cultural heritage, exploring iconic landmarks and historical sites.",
+      "information": "Participants should be prepared for extensive walking and varying weather conditions.",
+      "facilities": [
+        "Accommodation",
+        "Meals",
+        "Transportation",
+        "Guided Tours"
+      ],
+      "hopeDestination": ["Eiffel Tower", "Colosseum", "Acropolis"],
+      "meals": {
+        "welcome": ["Traditional Welcome Dinner"],
+        "lunch": ["Local Cuisine", "Picnic Lunches"],
+        "evening": ["Fine Dining", "Cultural Performances"]
+      },
+      "mapUrl": "https://maps.google.com/historical_european_tour",
+      "availability": true,
+      "inclusions": [
+        "Accommodation",
+        "Meals",
+        "Transportation",
+        "Guided Tours"
+      ],
+      "exclusions": [
+        "International Airfare",
+        "Personal Expenses",
+        "Travel Insurance"
+      ],
+      "tips": [
+        "Learn basic phrases in local languages",
+        "Carry comfortable shoes",
+        "Respect local customs"
+      ],
+      "pickupLocation": "Major European Airports",
+      "coverPic": "https://images.unsplash.com/photo-1603566541830-972ff1b4b2cd?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "images": [
+        "https://images.unsplash.com/photo-1704972087620-9c9821013481?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1640890654285-a6e97fbaafb6?q=80&w=1548&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1619524812349-43f4e9a7f72f?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1619524804094-e3ba93d15779?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "additionalInfo": ["Visa requirements", "Currency exchange tips"]
+    },
+    {
+      "name": "Safari Adventure in the Serengeti",
+      "categories": ["Adventure", "Wildlife"],
+      "division": "Africa",
+      "district": "Tanzania",
+      "tourLocation": "Serengeti National Park",
+      "minDuration": 7,
+      "maxDuration": 12,
+      "price": 4000,
+      "childPrice": 3200,
+      "minMembers": 4,
+      "maxMembers": 10,
+      "description": "Embark on an unforgettable safari adventure in the heart of the Serengeti, witnessing the stunning wildlife and landscapes of Tanzania.",
+      "information": "Participants should be prepared for rugged terrain and long days of exploration.",
+      "facilities": ["Luxury Tented Camps", "Game Drives", "Expert Guides"],
+      "hopeDestination": ["Big Five", "Great Migration"],
+      "meals": {
+        "welcome": ["African Welcome Feast"],
+        "lunch": ["Bush Picnics", "Traditional Cuisine"],
+        "evening": ["Sundowner Cocktails", "Gourmet Dinners"]
+      },
+      "mapUrl": "https://maps.google.com/serengeti_national_park",
+      "availability": true,
+      "inclusions": ["Accommodation", "Meals", "Game Drives", "Guided Tours"],
+      "exclusions": [
+        "International Airfare",
+        "Personal Expenses",
+        "Gratuities"
+      ],
+      "tips": [
+        "Bring binoculars for wildlife viewing",
+        "Pack light and breathable clothing",
+        "Respect wildlife and natural habitats"
+      ],
+      "pickupLocation": "Kilimanjaro International Airport, Arusha",
+      "coverPic": "https://images.unsplash.com/photo-1619025005045-c91b0f7d879d?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "images": [
+        "https://images.unsplash.com/photo-1625586059519-3245eb14d209?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1678885275105-491cba65ae2e?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1504423180169-63d3676eeb0f?q=80&w=1501&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1517034650551-b0998bff43cd?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "additionalInfo": [
+        "Health and safety precautions",
+        "Local customs and traditions"
+      ]
+    },
+    {
+      "name": "Northern Lights Expedition",
+      "categories": ["Adventure", "Nature"],
+      "division": "Arctic",
+      "district": "Norway",
+      "tourLocation": "Tromsø",
+      "minDuration": 3,
+      "maxDuration": 7,
+      "price": 3000,
+      "childPrice": 2500,
+      "minMembers": 6,
+      "maxMembers": 15,
+      "description": "Embark on a mesmerizing journey to witness the breathtaking spectacle of the Northern Lights in the Arctic wilderness of Norway.",
+      "information": "Participants should dress warmly and be prepared for cold temperatures.",
+      "facilities": ["Accommodation", "Guided Tours", "Winter Activities"],
+      "hopeDestination": ["Aurora Borealis", "Arctic Landscapes"],
+      "meals": {
+        "welcome": ["Traditional Norwegian Dinner"],
+        "lunch": ["Warm Soups", "Sandwiches"],
+        "evening": ["Scandinavian Cuisine", "Hot Beverages"]
+      },
+      "mapUrl": "https://maps.google.com/tromso_norway",
+      "availability": true,
+      "inclusions": ["Accommodation", "Meals", "Guided Tours", "Winter Gear"],
+      "exclusions": ["Airfare", "Personal Expenses", "Travel Insurance"],
+      "tips": [
+        "Keep camera batteries warm",
+        "Stay awake for the best light shows",
+        "Check weather forecasts"
+      ],
+      "pickupLocation": "Tromsø Airport",
+      "coverPic": "https://images.unsplash.com/photo-1520816468865-97e02931f666?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "images": [
+        "https://images.unsplash.com/photo-1520991323542-c159d7282b9f?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1459949293702-2ec939154ddb?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1656747680255-75bf1f33e312?q=80&w=1585&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1662906129343-604b886236c1?q=80&w=1546&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "additionalInfo": [
+        "Emergency contact numbers",
+        "Health precautions in cold climates"
+      ]
+    }
+]

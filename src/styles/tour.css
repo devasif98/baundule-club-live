@@ -1,0 +1,48 @@
+.page-header {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("/Assets/contact.jpg"), no-repeat;
+  background-size: cover;
+}
+.display-4 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+.active{
+    background-image: url('/Assets/icon/cat.bg.svg');
+    object-fit: cover;
+}
+.swiper-wrapper {
+  gap: 25px;
+}
+.swiper-slide {
+  margin-right: 0 !important;
+}
+.swiper-button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0;
+  gap: 10px;
+}
+ .swiper-button-prev::after {
+  color: rgb(255, 255, 255);
+  margin-right: 0 !important;
+  font-size: 15px !important;
+}
+
+ .swiper-button-next::after {
+  color: rgb(255, 255, 255);
+  margin-left: 0 !important;
+  font-size: 15px !important;
+}
+
+ .swiper-button-next,
+ .swiper-button-prev {
+  position: inherit;
+  margin-top: 0;
+  height: 0;
+
+  background-color: #A3E635;
+  padding: 15px 8px;
+}
