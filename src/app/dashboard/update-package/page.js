@@ -1,4 +1,5 @@
-import UpdatePackageForm from "@/components/Dashboard/Packages/UpdatePackageForm";
+import UpdatePackageForm from "@/components/dashboard/Packages/UpdatePackageForm";
+
 
 const UpdatePackagePage = () => {
   return (

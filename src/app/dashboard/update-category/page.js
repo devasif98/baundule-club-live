@@ -1,4 +1,4 @@
-// import UpdateCategoryForm from "@/components/dashboard/Categories/UpdateCategoryForm";
+import UpdateCategoryForm from "@/components/dashboard/Categories/UpdateCategoryForm";
 
 const UpdateCategoryPage = () => {
   return (
@@ -6,7 +6,7 @@ const UpdateCategoryPage = () => {
       <h1 className="text-3xl font-semibold text-center md:text-4xl">
         Update <span className="text-lime-600">Category</span>
       </h1>
-      {/* <UpdateCategoryForm /> */}
+      <UpdateCategoryForm />
     </div>
   );
 };
